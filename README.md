@@ -1,4 +1,4 @@
-# auth_page
+# widget_demo
 
 A new Flutter project.
 
